@@ -1,4 +1,6 @@
 RESOURCES
+.DS_Store
+.expo
 
 # Logs
 logs
@@ -59,3 +61,8 @@ typings/
 # dotenv environment variables file
 .env
 
+# misc
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
