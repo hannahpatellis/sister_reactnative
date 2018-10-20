@@ -7,9 +7,11 @@ Sister: A dilation assistant for GCS post-op trans people
 
 ---
 
-This project is in development. The final product will be an application for iOS and Android, written in React Native, that will help trans people who have undergone Gender Confirmation Surgery (vaginoplasty) in their daily dilation.
+**Update:** This project is no longer in development. The final product would have been an application for iOS and Android, written in React Native, that would help trans people who have undergone Gender Confirmation Surgery (vaginoplasty) in their daily dilation.
 
-Name still in the works. Sister is too gender-specific ;)
+I decided not to go forward because after some surveying of the community, it just didn't seem like something that would have been benificial.
+
+(Sorry for the name `Sister`. It's too gendered, I know.)
 
 ---
 
